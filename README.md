@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Stephanie Vapsys :sparkles:
 
 
-Depois de quase cinco anos como repórter gastronômica, em 2019, comecei oficialmente minha trajetória como desenvolvedora quando fui estudar full stack. Antes, já criava layouts pela plataforma Wix. Nos últimos meses tenho me aprofundado em front-end e estudos de UX/UI. Desde de julho 2020, trabalho como Desenvolvedora Full Stack. E agora, divido meu tempo escrevendo textos e códigos! 
+Depois de quase cinco anos como repórter gastronômica, em 2019, comecei oficialmente minha trajetória como desenvolvedora quando fui estudar full stack. Antes, já criava layouts pela plataforma Wix. Nos últimos meses tenho me aprofundado em front-end e estudos de UX/UI. Desde 2020, trabalho como Desenvolvedora Full Stack. E agora, divido meu tempo escrevendo textos e códigos! 
 
  :office:  &nbsp; Estou trabalhando na  <a href="https://base.digital/">**Base Digital**</a>
  <br/> :computer: &nbsp; Minha stack: HTML5, CSS, Javascript, PHP & Laravel 
